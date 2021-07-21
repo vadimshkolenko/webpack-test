@@ -2,7 +2,7 @@
   "name": "webpack-minin",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "privat": true,
   "scripts": {
     "dev": "webpack --mode development",
     "build": "webpack --mode production",
@@ -18,5 +18,8 @@
     "style-loader": "^3.2.1",
     "webpack": "^5.45.1",
     "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1"
   }
 }
