@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78e85ae3-5700-4cb5-bbd2-de666f115b86" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1vcgi0GsSzGYCQWy5Y2rYDUnHVt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/dist" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.watch">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="watch" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="watch" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.watch" />
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78e85ae3-5700-4cb5-bbd2-de666f115b86" name="Default Changelist" comment="" />
+      <created>1626866916252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626866916252</updated>
+      <workItem from="1626866917795" duration="9414000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1876" height="347" key="GridCell.Tab.0.bottom" timestamp="1626878928211">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1876" height="347" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.1057@-1920.23.1920.1057" timestamp="1626878928211" />
+    <state width="1876" height="347" key="GridCell.Tab.0.center" timestamp="1626878928210">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1876" height="347" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.1057@-1920.23.1920.1057" timestamp="1626878928210" />
+    <state width="1876" height="347" key="GridCell.Tab.0.left" timestamp="1626878928209">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1876" height="347" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.1057@-1920.23.1920.1057" timestamp="1626878928209" />
+    <state width="1876" height="347" key="GridCell.Tab.0.right" timestamp="1626878928211">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1876" height="347" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.1057@-1920.23.1920.1057" timestamp="1626878928211" />
+    <state x="-1310" y="275" width="700" height="530" key="recent.locations.popup" timestamp="1626869767355">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1310" y="275" width="700" height="530" key="recent.locations.popup/-1920.23.1920.1057/0.23.1920.1057@-1920.23.1920.1057" timestamp="1626869767355" />
+  </component>
+</project>
