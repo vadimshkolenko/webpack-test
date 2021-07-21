@@ -1,6 +1,6 @@
 import Post from "./Post";
-import './styles/styles.css';
-import json from './assets/json.json';
+import './styles/styles';
+import json from './assets/json';
 import Mat from './assets/mat.jpeg';
 
 console.log(json)

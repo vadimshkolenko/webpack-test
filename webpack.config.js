@@ -17,6 +17,10 @@ module.exports = {
     filename: "[name].[contenthash].js",
     path: path.resolve(__dirname, 'dist')
   },
+  resolve: {
+    // расширения которые понимаются при импорте без указания (чтобы не писать расширения при импорте)
+    extensions: ['.js', '.json', '.css']
+  },
   plugins: [
       // создает html в dist и подключает чанки
       new HTMLWebpackPlugin({
