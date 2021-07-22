@@ -19,7 +19,16 @@ module.exports = {
   },
   resolve: {
     // расширения которые понимаются при импорте без указания (чтобы не писать расширения при импорте)
-    extensions: ['.js', '.json', '.css']
+    extensions: ['.js', '.json', '.css'],
+    // используем чтобы не прописывать полный путь к файлу
+    alias: {
+      'models': path.resolve(__dirname, 'src/models'),
+    },
+  },
+  optimization: {
+    splitChunks: {
+      chunks: 'all',
+    }
   },
   plugins: [
       // создает html в dist и подключает чанки
@@ -51,5 +60,9 @@ module.exports = {
         }
         //при необходимости добавляем лодер для xml
    ]
- }
+ },
+  // предварительно ставим webpack-dev-server, исп для мгновенного отображения изменений файлов
+  devServer: {
+    port: 4200
+  }
 }

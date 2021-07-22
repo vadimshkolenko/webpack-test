@@ -1,8 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="78e85ae3-5700-4cb5-bbd2-de666f115b86" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/analytics.ee53c5482c10bc7229cc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.c8ef8ee8efee89b1f60c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Post.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/analytics.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/analytics.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,11 +53,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/models" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/dist" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.watch">
+  <component name="RunManager" selected="npm.start">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -50,6 +79,16 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="watch" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -62,6 +101,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.start" />
         <item itemvalue="npm.watch" />
         <item itemvalue="npm.dev" />
         <item itemvalue="npm.build" />
@@ -78,32 +118,45 @@
       <updated>1626866916252</updated>
       <workItem from="1626866917795" duration="9414000" />
       <workItem from="1626899850671" duration="962000" />
+      <workItem from="1626963351306" duration="43000" />
+      <workItem from="1626963434075" duration="2792000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1160" height="214" key="GridCell.Tab.0.bottom" timestamp="1626901565002">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1876" height="276" key="GridCell.Tab.0.bottom" timestamp="1626970175168">
+      <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1876" height="347" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.1057@-1920.23.1920.1057" timestamp="1626878928211" />
+    <state width="1876" height="276" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.1057@-1920.23.1920.1057" timestamp="1626970175168" />
     <state width="1160" height="214" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1626901565002" />
-    <state width="1160" height="214" key="GridCell.Tab.0.center" timestamp="1626901565000">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1876" height="276" key="GridCell.Tab.0.center" timestamp="1626970175167">
+      <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1876" height="347" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.1057@-1920.23.1920.1057" timestamp="1626878928210" />
+    <state width="1876" height="276" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.1057@-1920.23.1920.1057" timestamp="1626970175167" />
     <state width="1160" height="214" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1626901565000" />
-    <state width="1160" height="214" key="GridCell.Tab.0.left" timestamp="1626901564997">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1876" height="276" key="GridCell.Tab.0.left" timestamp="1626970175167">
+      <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1876" height="347" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.1057@-1920.23.1920.1057" timestamp="1626878928209" />
+    <state width="1876" height="276" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.1057@-1920.23.1920.1057" timestamp="1626970175167" />
     <state width="1160" height="214" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1626901564997" />
-    <state width="1160" height="214" key="GridCell.Tab.0.right" timestamp="1626901565001">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1876" height="276" key="GridCell.Tab.0.right" timestamp="1626970175167">
+      <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1876" height="347" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.1057@-1920.23.1920.1057" timestamp="1626878928211" />
+    <state width="1876" height="276" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.1057@-1920.23.1920.1057" timestamp="1626970175167" />
     <state width="1160" height="214" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1626901565001" />
     <state x="-1310" y="275" width="700" height="530" key="recent.locations.popup" timestamp="1626869767355">
       <screen x="-1920" y="23" width="1920" height="1057" />
