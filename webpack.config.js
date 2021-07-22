@@ -1,6 +1,7 @@
 const path = require('path')
 const HTMLWebpackPlugin = require('html-webpack-plugin')
 const {CleanWebpackPlugin} = require('clean-webpack-plugin')
+const CopyWebpackPlugin = require('copy-webpack-plugin')
 
 module.exports = {
   // указывает где лежат все исходники (можем из путей убрать src/)
@@ -38,6 +39,12 @@ module.exports = {
       }),
       // используется для удаления ненужных чанков
       new CleanWebpackPlugin(),
+      new CopyWebpackPlugin({
+        patterns: [{
+          from: path.resolve(__dirname, 'src/assets/favicon.ico'),
+          to: path.resolve(__dirname, 'dist'),
+        }]
+      })
   ],
   // для возможности работы не только с js, json
   module: {
