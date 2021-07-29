@@ -21,9 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="78e85ae3-5700-4cb5-bbd2-de666f115b86" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terser-webpack-plugin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/terser-webpack-plugin/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
       <recent name="$PROJECT_DIR$/dist" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.start">
+  <component name="RunManager" selected="npm.build">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -95,10 +95,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.start" />
-        <item itemvalue="npm.watch" />
-        <item itemvalue="npm.dev" />
         <item itemvalue="npm.build" />
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.watch" />
+        <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
   </component>
@@ -114,6 +114,7 @@
       <workItem from="1626899850671" duration="962000" />
       <workItem from="1626963351306" duration="43000" />
       <workItem from="1626963434075" duration="3888000" />
+      <workItem from="1627327657842" duration="2514000" />
     </task>
     <servers />
   </component>
@@ -130,28 +131,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1876" height="382" key="GridCell.Tab.0.bottom" timestamp="1626971250337">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="1152" height="272" key="GridCell.Tab.0.bottom" timestamp="1627329955863">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1876" height="382" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.1057@-1920.23.1920.1057" timestamp="1626971250337" />
-    <state width="1160" height="214" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1626901565002" />
-    <state width="1876" height="382" key="GridCell.Tab.0.center" timestamp="1626971250336">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="1152" height="272" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1627329955863" />
+    <state width="1152" height="272" key="GridCell.Tab.0.center" timestamp="1627329955861">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1876" height="382" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.1057@-1920.23.1920.1057" timestamp="1626971250336" />
-    <state width="1160" height="214" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1626901565000" />
-    <state width="1876" height="382" key="GridCell.Tab.0.left" timestamp="1626971250335">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="1152" height="272" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1627329955861" />
+    <state width="1152" height="272" key="GridCell.Tab.0.left" timestamp="1627329955860">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1876" height="382" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.1057@-1920.23.1920.1057" timestamp="1626971250335" />
-    <state width="1160" height="214" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1626901564997" />
-    <state width="1876" height="382" key="GridCell.Tab.0.right" timestamp="1626971250336">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="1152" height="272" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1627329955860" />
+    <state width="1152" height="272" key="GridCell.Tab.0.right" timestamp="1627329955862">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1876" height="382" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.1057@-1920.23.1920.1057" timestamp="1626971250336" />
-    <state width="1160" height="214" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1626901565001" />
+    <state width="1152" height="272" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1627329955862" />
     <state x="-1310" y="275" width="700" height="530" key="recent.locations.popup" timestamp="1626869767355">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
